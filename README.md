@@ -7,4 +7,4 @@ I am Federico, a BSc in Digital Technologies graduate, passionate about the use 
 - 📍 Located in Buenos Aires, Argentina
 - 📨 You can reach me via [LinkedIn](https://www.linkedin.com/in/federgiorgi/)
 
-- <!--- Check my portfolio [here]()
+<!--- Check my portfolio [here]()
